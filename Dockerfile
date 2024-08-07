@@ -3,7 +3,7 @@
 # ARGとFROMの違い
 # https://freak-da.hatenablog.com/entry/2020/03/31/094140
 
-# Global
+# Global variable
 ARG USERNAME=nextjs
 ARG GROUPNAME=nextjs
 ARG UID=1001
